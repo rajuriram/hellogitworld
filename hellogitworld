@@ -65,13 +65,18 @@ Shows the location of a file if it is in your PATH
 19
 uname
 uname’ can display much more technical information about your hardware and OS apart from name of the OS.
-  
+5.What are the basic components of Linux?
+The basic components of Linux are:
+Kernel: It is the core component of the Operating System that manages operations and hardware. 
+Shell: Shell is a Linux interpreter which is used to execute commands. 
+GUI: GUI stands for Graphical User Interface which is another way for a user to interact with the system. But unlike CLI, GUI consists of Images, Buttons, TextBoxes for interaction. 
+System Utilities: These are the software functions that allows the user to manage the computer. 
+Application Programs: Software programs or set of functions designed to accomplish a specific task.
+6. What is LILO?
+LILO stands for LInux LOader. LILO is a Linux Boot Loader that loads Linux Operating System into the main memory to begin execution.
+7. What is file system ?
+Linux File System or any file system generally is a layer that is under the operating system that handles the positioning of your data on the storage; without it, the system cannot knows which file starts from where and ends where,   
  
-
-
-
-
-
 4) What is grep command? 
 grep a search command that makes use of pattern-based searching. Grep stands for Global regular expression print. It makes use of options and parameters that are specified along with the command line and applies this pattern in searching the required file output. 
 
@@ -87,4 +92,12 @@ Shows the matching line and its number
 Match both (upper and lower) case 
 -l 
 Shows just the name of the file with the string
+
+6. Which are the Shells used in Linux?
+The most common Shells used in Linux are
+bash: Bourne Again Shell is the default for most of the Linux distributions 
+ksh: Korn Shell is a high-level programming language shell 
+csh: C Shell follows C like syntax and provides spelling correction and Job Control 
+zsh: Z Shell provides some unique features such as filename generation, startup files, login/logout watching, closing comments etc. 
+fish: Friendly Interactive Shell provides some special features like web-based configuration, auto-suggestions, fully scriptable with clean scripts
 
