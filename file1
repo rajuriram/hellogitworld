@@ -1,0 +1,30 @@
+13. What is “git cherry-pick”?
+The command git cherry-pick enables you to pick up commits from a branch within a repository and apply it to another branch. This command is useful to undo changes when any commit is accidentally made to the wrong branch. Then, you can switch to the correct branch and use this command to cherry-pick the commit.
+Cherry-pick is the act of picking a commit from a branch and applying it to the another branch.
+ 14. Name a few Git commands with their function.
+Git config - Configure the username and email address. 
+Git add - Add one or more files to the staging area. 
+Git diff - View the changes made to the file.
+Git init - Initialize an empty Git repository.
+Git commit - Commit changes to head but not to the remote repository .
+15. What are the Alternatives to Git?
+      The alternatives to Git are
+Azure DevOps Server.
+Helix Core.
+Subversion.
+AWS CodeCommit.
+Rational ClearCase.
+Mercurial.
+Micro Focus AccuRev.
+CVS.
+16. What is GIT?
+Git is an open source distributed version control system and source code management (SCM) system with an insistence to control small and large projects with speed and efficiency.
+
+17. What is the difference between local and remote repository?
+
+Local repositories reside on the computers of team members. In contrast, remote repositories are hosted on a server that is accessible for all team members - most likely on the internet or on a local network
+
+18. What is meant by version control system?
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+
