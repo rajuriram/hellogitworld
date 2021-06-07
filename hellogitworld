@@ -1,0 +1,90 @@
+1.What is Linux? 
+Linux is an operating system based on UNIX and was first introduced by Linus Torvalds. It is based on the Linux Kernel and can run on different hardware platforms manufactured by Intel, MIPS, HP, IBM, SPARC, and Motorola. Another popular element in Linux is its mascot, a penguin figure named Tux. 
+2.What is the difference between UNIX and LINUX?
+
+ Unix originally began as a propriety operating system from Bell Laboratories, which later on spawned into different commercial versions. On the other hand, Linux is free, open source and intended as a non-propriety operating system for the masses.
+
+3 .List some commands in the Linux ?
+Navigating the File System
+Sr.No.
+Command & Description
+1
+cat filename
+Displays a filename
+2
+cd dirname
+Moves you to the identified directory
+3
+cp file1 file2
+Copies one file/directory to the specified location
+4
+file filename
+Identifies the file type (binary, text, etc)
+5
+find filename dir
+Finds a file/directory
+6
+head filename
+Shows the beginning of a file
+7
+less filename
+Browses through a file from the end or the beginning
+8
+ls dirname
+Shows the contents of the directory specified
+9
+mkdir dirname
+Creates the specified directory
+10
+more filename
+Browses through a file from the beginning to the end
+11
+mv file1 file2
+Moves the location of, or renames a file/directory
+12
+pwd
+Shows the current directory the user is in
+13
+rm filename
+Removes a file
+14
+rmdir dirname
+Removes a directory
+15
+tail filename
+Shows the end of a file
+16
+touch filename
+Creates a blank file or modifies an existing file or its attributes
+17
+whereis filename
+Shows the location of a file
+18
+which filename
+Shows the location of a file if it is in your PATH
+19
+uname
+uname’ can display much more technical information about your hardware and OS apart from name of the OS.
+  
+ 
+
+
+
+
+
+4) What is grep command? 
+grep a search command that makes use of pattern-based searching. Grep stands for Global regular expression print. It makes use of options and parameters that are specified along with the command line and applies this pattern in searching the required file output. 
+
+Option 
+Function 
+-v 
+Shows all the lines that do not match the searched string 
+-c 
+Displays only the count of matching lines 
+-n 
+Shows the matching line and its number 
+-i 
+Match both (upper and lower) case 
+-l 
+Shows just the name of the file with the string
+
